@@ -26,13 +26,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
   This file contains:
   
-    - Data Import
+    . Data Import
     
-    - Data exploration
+    . Data exploration
     
-    - Data cleaning
+    . Data cleaning
     
-    - Connection to SQL Database
+    . Connection to SQL Database
 
 **3. Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
     - Create a database in SQL
