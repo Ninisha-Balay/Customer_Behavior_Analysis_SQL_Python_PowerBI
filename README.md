@@ -39,3 +39,11 @@ The project focuses on understanding customer trends, spending patterns, subscri
 - SQL: PostgreSQL / MySQL / SQL Server
 - Visualization: Power BI
 - Presentation: Gamma AI
+
+# Project Workflow
+
+**1. Data Loading**
+ - Imported dataset using Pandas
+ - Checked structure and summary statistics
+
+**2. Data Cleaning**
