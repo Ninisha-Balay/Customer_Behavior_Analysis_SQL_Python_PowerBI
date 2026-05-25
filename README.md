@@ -25,16 +25,16 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 **2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
   This file contains:
-  
-    . Data Import
+    - Data Import
     
-    . Data exploration
+    - Data exploration
     
-    . Data cleaning
+    - Data cleaning
     
-    . Connection to SQL Database
+    - Connection to SQL Database
 
 **3. Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+
     - Create a database in SQL
     - Run Python code to load data into SQL database
     - Open customer_behavior_sql_queries.sql
