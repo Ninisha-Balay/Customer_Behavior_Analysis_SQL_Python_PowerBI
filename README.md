@@ -1,7 +1,7 @@
 # 👨🏻‍💻Customer Behavior Data Analysis Project
 Developed a customer shopping behavior analysis system using Python, SQL, PostgreSQL, and Power BI to identify purchasing trends, customer segments, and sales insights through interactive dashboards.
 
-# 📌 Project Overview
+**📌 Project Overview**
 
 This project demonstrates a corporate-grade end-to-end data analytics workflow focused on transforming raw retail data into actionable business insights using Python, SQL, PostgreSQL, and Power BI.
 
