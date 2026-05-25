@@ -16,43 +16,19 @@ This project analyzes customer shopping behavior using Python, SQL, and Power BI
  - How to Run
  - Project Structure
    
-# 📌 Project Overview
+# Overview
 
-This project demonstrates a corporate-grade end-to-end data analytics workflow focused on transforming raw retail data into actionable business insights using Python, SQL, PostgreSQL, and Power BI.
+The project focuses on understanding customer trends, spending patterns, subscription behavior, and product performance from transactional purchase data. Insights generated can inform marketing strategies, loyalty programs, and revenue optimization initiatives.
 
-✅ Data Cleaning & Exploratory Data Analysis (Python)  
+# Dataset
 
-✅ Customer & Sales Analysis using SQL  
+- **Rows**: 3,900
+- **Columns**: 18
 
-✅ Interactive Dashboard Development in Power BI  
+# Key Features:
 
-✅ Business Insights & Reporting for Decision-Making 
-
-# 🛠️ Technologies Used
-
-- Python
-  
-- Pandas
-  
-- SQL
-  
-- PostgreSQL
-  
-- Power BI
-  
-- Matplotlib
-
-# 📊 Key Insights
-
-- Identified high-value customer segments
-  
-- Analyzed customer purchasing behavior
-
-- Evaluated product and sales performance
-
-- Generated business insights through interactive dashboards
-
-# 📌 Conclusion
-
-This project showcases how data analytics and business intelligence tools can transform raw retail data into actionable insights for strategic decision-making.
-
+- Customer demographics: Age, Gender, Location
+- Purchase details: Product, Category, Purchase Amount
+- Shopping behavior: Discounts, Promo Codes, Shipping Type
+- Subscription status
+- Review ratings and purchase frequency
