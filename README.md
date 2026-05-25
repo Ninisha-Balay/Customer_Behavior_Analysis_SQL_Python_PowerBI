@@ -25,10 +25,17 @@ The project focuses on understanding customer trends, spending patterns, subscri
 - **Rows**: 3,900
 - **Columns**: 18
 
-# Key Features:
+ **Key Features:**
 
 - Customer demographics: Age, Gender, Location
 - Purchase details: Product, Category, Purchase Amount
 - Shopping behavior: Discounts, Promo Codes, Shipping Type
 - Subscription status
 - Review ratings and purchase frequency
+
+# Tools & Technologies
+
+- Python: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- SQL: PostgreSQL / MySQL / SQL Server
+- Visualization: Power BI
+- Presentation: Gamma AI
