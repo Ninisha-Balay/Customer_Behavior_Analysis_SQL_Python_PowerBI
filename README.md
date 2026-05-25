@@ -27,4 +27,17 @@ This project demonstrates a corporate-grade end-to-end data analytics workflow f
   
 - Matplotlib
 
+# 📊 Key Insights
+
+- Identified high-value customer segments
+  
+- Analyzed customer purchasing behavior
+
+- Evaluated product and sales performance
+
+- Generated business insights through interactive dashboards
+
+# 📌 Conclusion
+
+This project showcases how data analytics and business intelligence tools can transform raw retail data into actionable insights for strategic decision-making.
 
