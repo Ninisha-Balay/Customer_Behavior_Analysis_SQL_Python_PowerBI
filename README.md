@@ -11,3 +11,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+<img width="4872" height="2656" alt="11" src="https://github.com/user-attachments/assets/8361e957-e4a2-4545-9c47-59b45662bbcb" />
