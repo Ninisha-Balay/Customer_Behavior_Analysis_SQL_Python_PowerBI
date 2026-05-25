@@ -35,10 +35,10 @@ The project focuses on understanding customer trends, spending patterns, subscri
 
 # Tools & Technologies
 
-- Python: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-- SQL: PostgreSQL / MySQL / SQL Server
-- Visualization: Power BI
-- Presentation: Gamma AI
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- **SQL:** PostgreSQL / MySQL / SQL Server
+- **Visualization:** Power BI
+- **Presentation:** Gamma AI
 
 # Project Workflow
 
@@ -47,3 +47,37 @@ The project focuses on understanding customer trends, spending patterns, subscri
  - Checked structure and summary statistics
 
 **2. Data Cleaning**
+ - Handled missing values
+ - Standardized column names
+ - Removed redundant columns
+ - Performed consistency checks
+
+**3. Feature Engineering**
+ - Created customer age groups
+ - Generated purchase frequency metrics
+
+**4. Exploratory Data Analysis (EDA)**
+ - Analyzed customer demographics
+ - Studied purchasing behavior
+ - Identified sales and revenue trends
+
+**5. SQL Analysis**
+ - Revenue analysis by gender
+ - Top-rated products
+ - Discount usage analysis
+ - Customer segmentation
+ - Subscription behavior
+ - Revenue by age group
+
+**6. Dashboard Development**
+ - Built an interactive Power BI dashboard to visualize:
+   - Revenue trends
+   - Customer segments
+   - Product performance
+   - Subscription insights
+   - Sales by category and age group
+  
+ **7. Reporting & Presentation**
+ - Created a detailed business report
+ - Designed a presentation using Gamma AI
+
