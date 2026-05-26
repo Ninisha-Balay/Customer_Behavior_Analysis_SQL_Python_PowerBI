@@ -89,5 +89,55 @@ Below is a preview of the interactive Power BI dashboard showcasing key insights
 
 # Key Metrics
 
+- **Total Customers:** 3,900
+- **Average Purchase Amount:** $60
+- **Highest Revenue Group:** Young Adults
+- **Top Shipping Preference:** Express Shipping
+- **Loyal Customers:** Largest Segment
 
+# Key Results
 
+- Male customers contributed the highest overall revenue, indicating stronger average purchase behavior.
+- Express shipping users spent more per transaction, suggesting convenience drives higher sales.
+- Loyal customers represented the largest segment, highlighting opportunities for retention-focused strategies.
+- Certain products depended heavily on discounts, signaling potential for margin optimization.
+- Young adults contributed the highest revenue, making them a key target for marketing campaigns.
+
+# Business Recommendations
+
+- Promote subscription benefits to increase customer retention.
+- Reward repeat customers through loyalty programs.
+- Optimize discount strategies for better profitability.
+- Focus marketing efforts on high-revenue customer groups.
+- Highlight top-performing products in campaigns.
+
+# Skills Demonstrated
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL Business Queries
+- Data Visualization & Dashboard Development
+- Customer Segmentation
+- Business Insight Generation
+
+# Future Improvements
+- Implement predictive analytics for customer churn
+- Build a product recommendation system
+- Deploy Power BI dashboard online for stakeholders
+- Automate ETL pipeline for continuous updates
+
+# How to Run
+**1. Clone the Repository**
+
+git clone https://github.com/your-username/customer-shopping-analysis.git
+
+**2. Install Required Libraries**
+
+pip install pandas numpy matplotlib seaborn sqlalchemy
+
+**3. Run Python Analysis**
+- Open the Jupyter Notebook and execute all cells.
+**4. Run SQL Queries**
+- Import cleaned dataset into PostgreSQL/MySQL/SQL Server and execute SQL scripts.
+**5. Open Power BI Dashboard**
+- Open the .pbix file in Power BI Desktop to view the dashboard.
