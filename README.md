@@ -85,7 +85,7 @@ The project focuses on understanding customer trends, spending patterns, subscri
 
 Below is a preview of the interactive Power BI dashboard showcasing key insights on customer behavior, sales trends, and product performance.
 
-<img width="2541" height="1359" alt="image" src="https://github.com/user-attachments/assets/5c8d7d36-b8a9-4a5d-b600-5b971b872109" />
+<img width="2517" height="1329" alt="image" src="https://github.com/user-attachments/assets/99872743-cbcf-47a8-8ce9-89fc65e8b167" />
 
 # Key Metrics
 
