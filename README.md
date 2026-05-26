@@ -150,14 +150,23 @@ pip install pandas numpy matplotlib seaborn sqlalchemy
 # Project Structure
 
 Customer-Shopping-Behavior-Analysis/
+
 │
+
 ├── data/
+
 ├── notebooks/
+
 ├── sql_queries/
+
 ├── dashboard/
+
 ├── report/
+
 ├── presentation/
+
 └── README.md
+
 
 # Conclusion:
 
