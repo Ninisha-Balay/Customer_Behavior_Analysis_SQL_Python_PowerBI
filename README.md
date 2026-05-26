@@ -136,8 +136,29 @@ git clone https://github.com/your-username/customer-shopping-analysis.git
 pip install pandas numpy matplotlib seaborn sqlalchemy
 
 **3. Run Python Analysis**
+
 - Open the Jupyter Notebook and execute all cells.
+  
 **4. Run SQL Queries**
+
 - Import cleaned dataset into PostgreSQL/MySQL/SQL Server and execute SQL scripts.
+  
 **5. Open Power BI Dashboard**
+
 - Open the .pbix file in Power BI Desktop to view the dashboard.
+
+# Project Structure
+
+Customer-Shopping-Behavior-Analysis/
+│
+├── data/
+├── notebooks/
+├── sql_queries/
+├── dashboard/
+├── report/
+├── presentation/
+└── README.md
+
+# Conclusion:
+
+This project showcases a complete data analytics workflow combining Python, SQL, and Power BI to generate actionable business insights from customer shopping behavior data. It demonstrates technical, analytical, and business skills, making it ideal for data analyst portfolios.
