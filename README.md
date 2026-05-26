@@ -129,7 +129,7 @@ Below is a preview of the interactive Power BI dashboard showcasing key insights
 # How to Run
 **1. Clone the Repository**
 
-git clone https://github.com/your-username/customer-shopping-analysis.git
+git clone https://github.com/Ninisha-Balay/Customer_Behavior_Analysis_SQL_Python_PowerBI.git
 
 **2. Install Required Libraries**
 
