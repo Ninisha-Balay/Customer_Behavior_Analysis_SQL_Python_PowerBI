@@ -171,3 +171,7 @@ Customer-Shopping-Behavior-Analysis/
 # Conclusion:
 
 This project showcases a complete data analytics workflow combining Python, SQL, and Power BI to generate actionable business insights from customer shopping behavior data. It demonstrates technical, analytical, and business skills, making it ideal for data analyst portfolios.
+
+# 📜 License
+
+MIT — feel free to fork, star, and use in your portfolio.
